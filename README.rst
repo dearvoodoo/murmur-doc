@@ -1,56 +1,25 @@
-Template
+Murmur documentation
 ========
 
-This could be a template for all the project documentation.
+Get Murmur
+-------
 
-System Design Considerations
-----------
-Hold for system design docs
-
-
-User Auth 
-------
-Place holder for User Auth documentation.
-`
-code snippet
-`
-
-
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+You want Murmur Bot ?
+[Get Murmur](https://www.patreon.com/DearVooDoo)
 
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+We have a [Discord](https://discord.gg/XeeXPA7) and a [Twitter](https://twitter.com/MurmurBotGG
+
+Support
+-------
+
+If you are having issues, please let us know.
+We have a [Discord](https://discord.gg/XeeXPA7) and a [Twitter](https://twitter.com/MurmurBotGG))
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the GNU GENERAL PUBLIC LICENSE.
