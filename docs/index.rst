@@ -18,7 +18,7 @@ Welcome to Murmur Discord Bot documentation!
     :maxdepth: 2
     :caption: Module & Commandes Reference:
 
-    modules/general
+    modules/*
 
 
 .. toctree::
