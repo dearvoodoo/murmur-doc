@@ -18,7 +18,12 @@ Welcome to Murmur Discord Bot documentation!
     :maxdepth: 2
     :caption: Module & Commandes Reference:
 
-    modules/*
+    modules/general
+    modules/animals
+    modules/announcer
+    modules/audio
+    modules/autoroler
+    modules/cleanup
 
 
 .. toctree::
