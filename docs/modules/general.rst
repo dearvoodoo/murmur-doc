@@ -4,14 +4,10 @@
 General
 =======
 
-This is the cog guide for the general cog. You will
+This is the module guide for the general mùodule. You will
 find detailed docs about usage and commands.
 
-``[p]`` is considered as your prefix.
-
-.. note:: To use this cog, load it by typing this::
-
-        [p]load general
+``[p]`` is considered as your prefix. (Default: ``!`` or ``/``)
 
 .. _general-usage:
 
@@ -19,8 +15,8 @@ find detailed docs about usage and commands.
 Usage
 -----
 
-This cog includes a miscellaneous group of games, useful
-tools, and informative commands such as ``serverinfo`` or ``urban``.
+This module includes a miscellaneous group of games, useful
+tools, and informative commands such as ``serverinfo``.
 
 .. _general-commands:
 
@@ -196,23 +192,3 @@ stopwatch
 **Description**
 
 Start or stop the stopwatch.
-
-.. _general-commands-urban:
-
-^^^^^
-urban
-^^^^^
-
-**Syntax**
-
-.. code-block:: none
-
-    [p]urban <word>
-
-**Description**
-
-Search the Urban Dictionary.
-
-**Arguments**
-
-* ``<word>``: The term to search for.
