@@ -4,7 +4,7 @@
 General
 =======
 
-This is the module guide for the general mùodule. You will
+This is the module guide for the general module. You will
 find detailed docs about usage and commands.
 
 ``[p]`` is considered as your prefix. (Default: ``!`` or ``/``)
@@ -24,7 +24,7 @@ tools, and informative commands such as ``serverinfo``.
 Commands
 --------
 
-Here's a list of all commands available for this cog.
+Here's a list of all commands available for this module.
 
 .. _general-command-8:
 
