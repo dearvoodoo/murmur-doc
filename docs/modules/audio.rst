@@ -397,7 +397,7 @@ List the songs in the queue.
 .. _audio-command-queue-clear:
 
 ^^^^^^^^^
-Clear Queue
+Queue Clear
 ^^^^^^^^^
 
 **Syntax**
@@ -409,3 +409,71 @@ Clear Queue
 **Description**
 
 Clears the queue.
+
+.. _audio-command-queue-clean:
+
+^^^^^^^^^
+Queue Clean
+^^^^^^^^^
+
+**Syntax**
+
+.. code-block:: none
+
+    [p]queue clean
+
+**Description**
+
+Removes songs from the queue if the requester is not in the voice channel.
+
+.. _audio-command-queue cleanself:
+
+^^^^^^^^^
+Queue CleanSelf
+^^^^^^^^^
+
+**Syntax**
+
+.. code-block:: none
+
+    [p]queue cleanself
+
+**Description**
+
+Removes all tracks you requested from the queue.
+
+.. _audio-command-queue-search:
+
+^^^^^^^^^
+Queue Search
+^^^^^^^^^
+
+**Syntax**
+
+.. code-block:: none
+
+    [p]queue search <search_words>
+
+**Description**
+
+Search the queue.
+
+**Arguments**
+
+* ``<search_words>``: Search words.
+
+.. _audio-command-queue-shuffle:
+
+^^^^^^^^^
+Queue Shuffle
+^^^^^^^^^
+
+**Syntax**
+
+.. code-block:: none
+
+    [p]queue shuffle
+
+**Description**
+
+Shuffles the queue.
