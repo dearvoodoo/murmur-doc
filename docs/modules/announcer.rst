@@ -52,8 +52,8 @@ So the VooDoo channel ID is UCC3qjEASWsSJPX0ww_h4gXg
 
 * ``<Youtube_Channel_ID>``: The Youtube channel ID.
 * ``<Discord_Channel>``: The Discord channel you want Murmur to use for alerts.
-* ``[UseRoleMention]``: Set on True if you want to use role mention. If you want too tag ``@everyone`` leave this option and the next one empty.
-* ``[Role]``: If you set True please tag the role yoou want to use.
+* ``[UseRoleMention]``: Set on ``True`` if you want to use role mention. If you want to tag ``@everyone`` leave this option and the next one empty.
+* ``[Role]``: If you set ``True`` before please tag the role you want to use.
 
 .. _announcer-command-unsubscribe:
 
