@@ -135,28 +135,6 @@ Roll a random number. The result will be between 1 and ``<number>``.
 
 * ``[number]``: The maximum number that can be rolled. Defaults to 100.
 
-.. _general-command-rps:
-
-^^^^^^^^^^^^^^^^^^^^^^^^^
-rps (Rock Paper Scissors)
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Syntax**
-
-.. code-block:: none
-
-    [p]rps <your_choice>
-
-**Description**
-
-Play Rock Paper Scissors.
-
-**Arguments**
-
-* ``<your_choice>``: The choice that you choose.
-
-.. note:: Choices **must** be between ``rock``, ``paper``, or ``scissors``.
-
 .. _general-commands-serverinfo:
 
 ^^^^^^^^^^
