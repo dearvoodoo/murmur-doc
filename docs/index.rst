@@ -13,6 +13,7 @@ Welcome to Murmur Discord Bot documentation!
     :caption: Intro:
 
     readme
+    tutorials/first-steps
 
 .. toctree::
     :maxdepth: 2
