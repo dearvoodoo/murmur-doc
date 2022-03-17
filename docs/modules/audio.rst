@@ -15,7 +15,7 @@ find detailed docs about usage and commands.
 Usage
 -----
 
-This module includes all functions for Murmur to make Music in channels.  
+This module includes all functions for Murmur to make Music in channels. 
 Compatible with YouTube, Soundcloud and Spotify. (BETA play Twitch stream audio)
 
 .. _audio-commands:
@@ -368,7 +368,7 @@ Search
 Pick a track with a search.
 
 .. note:: 
-    Use ``!search list <search term>`` to queue all tracks found on YouTube.<br/>
+    Use ``!search list <search term>`` to queue all tracks found on YouTube. 
     Use ``!search sc <search term>`` to search on SoundCloud instead of YouTube.
 
 **Arguments**
