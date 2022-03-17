@@ -367,8 +367,9 @@ Search
 
 Pick a track with a search.
 
-.. note:: Use ``!search list <search term>`` to queue all tracks found on YouTube.  
-Use ``!search sc <search term>`` to search on SoundCloud instead of YouTube.
+.. note:: 
+    Use ``!search list <search term>`` to queue all tracks found on YouTube.  
+    Use ``!search sc <search term>`` to search on SoundCloud instead of YouTube.
 
 **Arguments**
 
