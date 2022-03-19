@@ -31,7 +31,7 @@ Welcome to Murmur Discord Bot documentation!
     :maxdepth: 2
     :caption: Changelogs:
 
-    changelog_3_1_0
+    changelogs/changelog_2_0
 
 
 Indices and tables
